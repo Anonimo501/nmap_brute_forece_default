@@ -23,4 +23,4 @@ chmod +x nmap_brute_forece_default.sh
 
 # Referencias
 
-sqlmap
+nmap
