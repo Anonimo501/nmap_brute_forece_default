@@ -8,17 +8,17 @@ Grupo en Telegram https://t.me/Pen7esting
 
 Es un script que ejecuta algunos de los scripts mas usados de nmap para hacer ataques de diccionario para usuarios y contraseñas por defecto.
 
-
+![1](https://user-images.githubusercontent.com/67207446/148626583-b131225d-d8ce-43b9-a806-c4287645a434.png)
 
 ## Uso
 
 git clone https://github.com/Anonimo501/nmap_brute_forece_default.git
 
-cd sqlmap_modified/
+cd nmap_brute_forece_default/
 
-chmod +x sqlmap_modified.sh
+chmod +x nmap_brute_forece_default.sh
 
-./sqlmap_modified.sh
+./nmap_brute_forece_default.sh
 
 
 # Referencias
